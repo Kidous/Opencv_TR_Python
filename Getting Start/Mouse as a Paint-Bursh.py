@@ -53,10 +53,10 @@ def draw_circle(event, x,y,flags, param):
 
 img = np.zeros((512,512,3),np.uint8)
 cv2.namedWindow('Image')
-cv2.setMouseCallback('image', draw_circle)
+cv2.setMouseCallback('Image', draw_circle)
 
 while True:
-    cv2.imshow('image', img)
+    cv2.imshow('Image', img)
     k = cv2.waitKey(1) & 0xFF
     if k == ord('m'):
         mode = not mode
