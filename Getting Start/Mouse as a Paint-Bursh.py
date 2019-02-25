@@ -63,3 +63,7 @@ while True:
     elif k == 27:
         break
 cv2.destroyAllWindows()
+
+## Note:
+# 1.the string 'Image' used in cv2.namedWindow likes a handle that should be used in to functions cv2.setMouseCallback
+# and cv2.imshow()
