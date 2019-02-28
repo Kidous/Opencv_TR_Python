@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90d025c6-24b8-4480-84dd-91710275c6e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Getting Start/Trackbar as the Color Palette.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aurora.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Operation/Basic Operation/Accessing and modifying pixel values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Operation/Basic Operation/Making Borders for Images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Operation/Basic Operation/aurora.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Getting Start/Mouse as a Paint-Bursh.py" beforeDir="false" afterPath="$PROJECT_DIR$/Getting Start/Mouse as a Paint-Bursh.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,29 +16,19 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Opencv_TR_Python$Drawing_Function_in_OpenCV.coverage" NAME="Drawing Function in OpenCV Coverage Results" MODIFIED="1551098594216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting Start" />
+    <SUITE FILE_PATH="coverage/Opencv_TR_Python$Accessing_and_modifying_pixel_values.coverage" NAME="Accessing and modifying pixel values Coverage Results" MODIFIED="1551356705142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operation/Basic Operation" />
     <SUITE FILE_PATH="coverage/Opencv_TR_Python$Mouse_as_a_Paint_Bursh__1_.coverage" NAME="Mouse as a Paint-Bursh (1) Coverage Results" MODIFIED="1551102467930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Wechat/WeChat Files/FlawlessJason/FileStorage/File/2019-02" />
-    <SUITE FILE_PATH="coverage/Opencv_TR_Python$Mouse_as_a_Paint_Bursh.coverage" NAME="Mouse as a Paint-Bursh Coverage Results" MODIFIED="1551102519437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting Start" />
+    <SUITE FILE_PATH="coverage/Opencv_TR_Python$Making_Borders_for_Images.coverage" NAME="Making Borders for Images Coverage Results" MODIFIED="1551357718903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operation/Basic Operation" />
+    <SUITE FILE_PATH="coverage/Opencv_TR_Python$Mouse_as_a_Paint_Bursh.coverage" NAME="Mouse as a Paint-Bursh Coverage Results" MODIFIED="1551345870132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting Start" />
     <SUITE FILE_PATH="coverage/Opencv_TR_Python$Trackbar_as_the_Color_Palette.coverage" NAME="Trackbar as the Color Palette Coverage Results" MODIFIED="1551131969972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting Start" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Getting Start/Drawing Function in OpenCV.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-              <folding>
-                <element signature="e#149#159#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Getting Start/Mouse as a Paint-Bursh.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="229">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="e#145#155#0" expanded="true" />
               </folding>
@@ -44,13 +36,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Getting Start/Trackbar as the Color Palette.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Core Operation/Basic Operation/Accessing and modifying pixel values.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            <state relative-caret-position="229">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
-                <element signature="e#152#162#0" expanded="true" />
+                <element signature="e#159#170#0" expanded="true" />
+                <element signature="e#714#752#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Core Operation/Basic Operation/Making Borders for Images.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+              <folding>
+                <element signature="e#149#159#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,6 +70,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cv2.imshow('Original', img)</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -73,13 +83,16 @@
       <list>
         <option value="$PROJECT_DIR$/Getting Start/Drawing Function in OpenCV.py" />
         <option value="G:/Wechat/WeChat Files/FlawlessJason/FileStorage/File/2019-02/Mouse as a Paint-Bursh.py" />
-        <option value="$PROJECT_DIR$/Getting Start/Mouse as a Paint-Bursh.py" />
         <option value="$PROJECT_DIR$/Getting Start/Trackbar as the Color Palette.py" />
+        <option value="$PROJECT_DIR$/Getting Start/Mouse as a Paint-Bursh.py" />
+        <option value="$PROJECT_DIR$/Core Operation/Basic Operation/Accessing and modifying pixel values.py" />
+        <option value="$PROJECT_DIR$/Core Operation/Basic Operation/Making Borders for Images.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
+    <option name="x" value="898" />
+    <option name="y" value="-8" />
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
@@ -88,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,19 +112,28 @@
             <path>
               <item name="Opencv_TR_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Opencv_TR_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Getting Start" type="462c0819:PsiDirectoryNode" />
+              <item name="Core Operation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Opencv_TR_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Opencv_TR_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Core Operation" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic Operation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\coding\Opencv_TR_Python\Core Operation\Basic Operation" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\coding\Opencv_TR_Python\Getting Start" />
     </key>
@@ -127,8 +150,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Trackbar as the Color Palette">
-    <configuration name="Drawing Function in OpenCV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Making Borders for Images">
+    <configuration name="Accessing and modifying pixel values" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Opencv_TR_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,12 +159,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Getting Start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core Operation/Basic Operation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Getting Start/Drawing Function in OpenCV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core Operation/Basic Operation/Accessing and modifying pixel values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Making Borders for Images" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Opencv_TR_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core Operation/Basic Operation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core Operation/Basic Operation/Making Borders for Images.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,10 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Trackbar as the Color Palette" />
+        <item itemvalue="Python.Making Borders for Images" />
+        <item itemvalue="Python.Accessing and modifying pixel values" />
         <item itemvalue="Python.Mouse as a Paint-Bursh" />
+        <item itemvalue="Python.Trackbar as the Color Palette" />
         <item itemvalue="Python.Mouse as a Paint-Bursh (1)" />
-        <item itemvalue="Python.Drawing Function in OpenCV" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +284,10 @@
       <workItem from="1551082502539" duration="3720000" />
       <workItem from="1551092250503" duration="36000" />
       <workItem from="1551097674635" duration="5247000" />
-      <workItem from="1551130496207" duration="1450000" />
+      <workItem from="1551130496207" duration="1682000" />
+      <workItem from="1551208727821" duration="933000" />
+      <workItem from="1551345040713" duration="86000" />
+      <workItem from="1551345207195" duration="7241000" />
     </task>
     <task id="LOCAL-00001" summary="Add file 'Drawing Function in OpenCV.py'">
       <created>1551086851238</created>
@@ -268,34 +317,41 @@
       <option name="project" value="LOCAL" />
       <updated>1551130703334</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add file 'Trackbar as the Color Palette.py'">
+      <created>1551132144187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551132144187</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10453000" />
+    <option name="totallyTimeSpent" value="18945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22408536" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23780487" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32881355" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5030488" side_tool="true" visible="true" weight="0.32881355" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32881355" />
-      <window_info anchor="bottom" id="Python Console" order="5" weight="0.32881355" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.4992378" weight="0.32881355" />
+      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.49771342" weight="0.32881355" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32881355" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49695122" visible="true" weight="0.32881355" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="0" side_tool="true" weight="0.32980332" />
-      <window_info anchor="right" id="SciView" order="1" sideWeight="0.49512196" weight="0.7047308" />
+      <window_info anchor="right" id="SciView" order="1" sideWeight="0.49512196" visible="true" weight="0.7042683" />
       <window_info anchor="right" id="Database" order="2" sideWeight="0.50487804" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
@@ -350,7 +406,8 @@
     <MESSAGE value="Add file 'Mouse as a Paint-brush.py', not work" />
     <MESSAGE value="Add file 'Mouse as a Paint-brush.py', correct" />
     <MESSAGE value="Add file 'Mouse as a Paint-brush.py', add note of cv2.namedWindow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add file 'Mouse as a Paint-brush.py', add note of cv2.namedWindow" />
+    <MESSAGE value="Add file 'Trackbar as the Color Palette.py'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file 'Trackbar as the Color Palette.py'" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://G:/Wechat/WeChat Files/FlawlessJason/FileStorage/File/2019-02/Mouse as a Paint-Bursh.py">
@@ -360,10 +417,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Getting Start/Trackbar as the Color Palette.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <element signature="e#152#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Getting Start/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Getting Start/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Getting Start/blocks-col.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Getting Start/Drawing Function in OpenCV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        <state relative-caret-position="163">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
           <folding>
             <element signature="e#149#159#0" expanded="true" />
           </folding>
@@ -372,20 +460,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Getting Start/Mouse as a Paint-Bursh.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="229">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="e#145#155#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Getting Start/Trackbar as the Color Palette.py">
+    <entry file="file://$PROJECT_DIR$/Getting Start/Getting Start with Video.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        <state relative-caret-position="176">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Getting Start/Import Matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Getting Start/Getting Start with video2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/452913058/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3311">
+          <caret line="7231" column="4" selection-start-line="7231" selection-start-column="4" selection-end-line="7231" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core Operation/Basic Operation/Accessing and modifying pixel values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
-            <element signature="e#152#162#0" expanded="true" />
+            <element signature="e#159#170#0" expanded="true" />
+            <element signature="e#714#752#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core Operation/Basic Operation/Making Borders for Images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="e#149#159#0" expanded="true" />
           </folding>
         </state>
       </provider>
