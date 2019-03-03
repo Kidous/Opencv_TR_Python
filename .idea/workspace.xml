@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90d025c6-24b8-4480-84dd-91710275c6e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/Arithmetic Operation on Images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/Bitwise Operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/crop0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/crop1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/desk_bgimg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/poker-threshold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/subtract1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/subtract2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Operation/aurora.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Getting Start/Read or Write a figure inculding Chinese char.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/Bitwise Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/Bitwise Operations.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +17,9 @@
     <SUITE FILE_PATH="coverage/Opencv_TR_Python$Mouse_as_a_Paint_Bursh__1_.coverage" NAME="Mouse as a Paint-Bursh (1) Coverage Results" MODIFIED="1551102467930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Wechat/WeChat Files/FlawlessJason/FileStorage/File/2019-02" />
     <SUITE FILE_PATH="coverage/Opencv_TR_Python$Making_Borders_for_Images.coverage" NAME="Making Borders for Images Coverage Results" MODIFIED="1551357718903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operation/Basic Operation" />
     <SUITE FILE_PATH="coverage/Opencv_TR_Python$Mouse_as_a_Paint_Bursh.coverage" NAME="Mouse as a Paint-Bursh Coverage Results" MODIFIED="1551345870132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting Start" />
+    <SUITE FILE_PATH="coverage/Opencv_TR_Python$Bitwise_Operations.coverage" NAME="Bitwise Operations Coverage Results" MODIFIED="1551612414144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images" />
     <SUITE FILE_PATH="coverage/Opencv_TR_Python$Trackbar_as_the_Color_Palette.coverage" NAME="Trackbar as the Color Palette Coverage Results" MODIFIED="1551131969972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting Start" />
-    <SUITE FILE_PATH="coverage/Opencv_TR_Python$Arithmetic_Operation_on_Images.coverage" NAME="Arithmetic Operation on Images Coverage Results" MODIFIED="1551432693399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images" />
+    <SUITE FILE_PATH="coverage/Opencv_TR_Python$Arithmetic_Operation_on_Images.coverage" NAME="Arithmetic Operation on Images Coverage Results" MODIFIED="1551612938993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -45,23 +37,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/Arithmetic Operation on Images.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-              <folding>
-                <element signature="e#152#162#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/Bitwise Operations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="525">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <element signature="e#140#150#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,7 +118,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OpenCV-Python-Tutorial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
@@ -204,6 +187,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Bitwise Operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Opencv_TR_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/Bitwise Operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Making Borders for Images" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Opencv_TR_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,35 +253,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Trackbar as the Color Palette" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Opencv_TR_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Getting Start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Getting Start/Trackbar as the Color Palette.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Arithmetic Operation on Images" />
+        <item itemvalue="Python.Bitwise Operations" />
         <item itemvalue="Python.Making Borders for Images" />
         <item itemvalue="Python.Accessing and modifying pixel values" />
         <item itemvalue="Python.Mouse as a Paint-Bursh" />
-        <item itemvalue="Python.Trackbar as the Color Palette" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +280,9 @@
       <workItem from="1551208727821" duration="933000" />
       <workItem from="1551345040713" duration="86000" />
       <workItem from="1551345207195" duration="8631000" />
-      <workItem from="1551428865594" duration="5121000" />
+      <workItem from="1551428865594" duration="5172000" />
+      <workItem from="1551460379089" duration="599000" />
+      <workItem from="1551610656170" duration="2327000" />
     </task>
     <task id="LOCAL-00001" summary="Add file 'Drawing Function in OpenCV.py'">
       <created>1551086851238</created>
@@ -341,35 +326,41 @@
       <option name="project" value="LOCAL" />
       <updated>1551357782281</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Core Operation,Part 1">
+      <created>1551438301738</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1551438301738</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25456000" />
+    <option name="totallyTimeSpent" value="28433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24237806" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.5381098" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32881355" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.503811" side_tool="true" visible="true" weight="0.32881355" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50457317" side_tool="true" visible="true" weight="0.32881355" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.4992378" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.49771342" weight="0.32881355" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49618903" visible="true" weight="0.32881355" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49542683" visible="true" weight="0.32881355" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="0" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="SciView" order="1" sideWeight="0.49512196" weight="0.7042683" />
-      <window_info anchor="right" id="Database" order="2" sideWeight="0.50487804" side_tool="true" weight="0.3292683" />
+      <window_info anchor="right" id="Database" order="2" sideWeight="0.50487804" side_tool="true" weight="0.53017944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
@@ -425,7 +416,8 @@
     <MESSAGE value="Add file 'Mouse as a Paint-brush.py', add note of cv2.namedWindow" />
     <MESSAGE value="Add file 'Trackbar as the Color Palette.py'" />
     <MESSAGE value="Basic Operation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Operation" />
+    <MESSAGE value="Core Operation,Part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Core Operation,Part 1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://G:/Wechat/WeChat Files/FlawlessJason/FileStorage/File/2019-02/Mouse as a Paint-Bursh.py">
@@ -550,23 +542,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/Arithmetic Operation on Images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding>
-            <element signature="e#152#162#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../OpenCV-Python-Tutorial/ch10-图像上的算术运算/10.addWeighted.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/Arithmetic Operation on Images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Core Operation/Arithmetic Operations On Images/Bitwise Operations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="525">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#140#150#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
